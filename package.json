@@ -22,7 +22,9 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.4",
     "prismic-reactjs": "^1.3.4",
-    "slugify": "^1.6.0"
+    "slugify": "^1.6.0",
+    "stripe": "^8.169.0",
+    "uniqueid": "^1.0.0"
   },
   "devDependencies": {},
   "description": ""
